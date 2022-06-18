@@ -79,3 +79,13 @@ h2{
     font-family: inherit;
     font-weight: 600;
 }
+
+@media(max-width:630px){
+    div{
+        width: 80%;
+    }
+
+    div .text{
+        margin-left: 100px;
+    }
+}
