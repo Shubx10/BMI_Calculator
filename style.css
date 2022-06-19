@@ -49,8 +49,8 @@ h2{
 
 #w:focus, #h:focus{
     border-bottom: 2px solid #341f97;
-    width: 300px;
-    transition: 0.5s;
+    width: 220px;
+    transition: 0.4s;
 }
 
 #btn{
